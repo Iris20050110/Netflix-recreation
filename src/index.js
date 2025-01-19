@@ -8,10 +8,6 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-    <head>
-      <title>Netflix Recreation</title>
-      <link rel="icon" href="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-512.png" type="image/icon type"></link>
-    </head>
     <App />
   </>
 );
