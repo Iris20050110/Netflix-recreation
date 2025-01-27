@@ -6,7 +6,7 @@ Hello! Thank you for checking out this git repository for a clone of the Netflix
 
 ## Setup
 
-This project used TMDB (https://www.themoviedb.org/?language=en-US) as the movie database and was bootstrapped with [React App](https://github.com/facebook/create-react-app).
+This project used [TMDB](https://www.themoviedb.org/?language=en-US) as the movie database and was bootstrapped with [React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
 ```
 npm start
