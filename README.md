@@ -1,1 +1,3 @@
-# Netflix-recreation
+# Netflix Recreation
+
+## Overview
